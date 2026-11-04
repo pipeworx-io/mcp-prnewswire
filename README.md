@@ -3,7 +3,7 @@
 Live press releases from PR Newswire's site-wide RSS feed — headline, issuer,
 industry tags, publish time and excerpt, newest first.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1856+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1866+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -22,7 +22,7 @@ Keyless. No account, no clickthrough terms.
 
 ## Data sources
 
-- <https://www.prnewswire.com/rss/news-releases-list.rss> — PR Newswire's
+- PR Newswire — PR Newswire's
   "All News Releases" feed. Its own description spans politics/government,
   business, technology, religion, sports/entertainment, science/nature and
   health/lifestyle, in English or other languages. It holds roughly the
@@ -87,7 +87,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1856+ data sources. The
+Both URLs reach the same gateway and the same 1866+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

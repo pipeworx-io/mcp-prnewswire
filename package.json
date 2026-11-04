@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-prnewswire",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PR Newswire MCP — press releases from PR Newswire's all-releases feed.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "prnewswire",
     "gatewaySlug": "prnewswire",
-    "sourceHash": "v1-85210748c7787d229732ebe84c969f768c7dfdf2ac88d66bbd3b2a9600f62d6e",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-96d0f03ef1d1e1f8ff9cd41ecbdad2ecb9bf4c9b3527799fa5bf0660921ef5c4",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
